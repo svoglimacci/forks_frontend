@@ -1,4 +1,4 @@
-# 🍴 Forks: Recipe Manager
+# 🍴 Forks: Recipe Manager Frontend
 
 A modern, fullstack recipe management application built as a learning project to explore Spring Boot and contemporary web development practices including OAuth authentication, OpenAPI specifications, and automated API client generation.
 
